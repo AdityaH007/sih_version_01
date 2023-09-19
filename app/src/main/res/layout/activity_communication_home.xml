@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".studentActivities.communicationHome">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="Improve your communication"
+            android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:textColor="@color/material_dynamic_primary0"
+            android:text="This section is going to help in improving your communication skills. You can choose how we can help you so that you can get more opportunities."
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="40dp"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:weightSum="2"
+                android:orientation="horizontal"
+                android:layout_margin="5dp">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:src="@drawable/logo"
+                            android:id="@+id/speechRecognition"
+                            android:elevation="10dp"
+                            android:layout_height="150dp"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:textSize="14sp"
+                            android:text="improve your speech "
+                            android:gravity="center"
+
+                            android:layout_margin="5dp"
+                            android:layout_height="wrap_content"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:src="@drawable/mentorlogo"
+                            android:id="@+id/mentorEnglish"
+                            android:elevation="10dp"
+                            android:layout_height="150dp"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:textSize="14sp"
+                            android:text="mentor access"
+                            android:layout_margin="5dp"
+                            android:gravity="center"
+
+                            android:layout_height="wrap_content"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="20dp"
+                android:weightSum="2"
+                android:gravity="center"
+                android:layout_margin="5dp">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:src="@drawable/communicationlogo"
+                            android:id="@+id/studyMaterial"
+                            android:elevation="10dp"
+                            android:layout_height="150dp"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:textSize="14sp"
+                            android:text="Study Material"
+                            android:gravity="center"
+
+                            android:layout_margin="5dp"
+                            android:layout_height="wrap_content"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:gravity="center">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+
+                            android:src="@drawable/quizlogohj"
+                            android:id="@+id/quizTaker"
+                            android:elevation="10dp"
+                            android:layout_height="150dp"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:textSize="14sp"
+                            android:text="Take the quiz"
+                            android:gravity="center"
+                            android:layout_margin="5dp"
+                            android:layout_height="wrap_content"/>
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+

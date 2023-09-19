@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the plural form of 'child'?",
+    "options": ["childs", "children", "childen", "child's"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which of the following is a synonym for 'happy'?",
+    "options": ["sad", "joyful", "angry", "tired"],
+    "correct_option": 1
+  },
+  {
+    "question": "What is the past tense of 'eat'?",
+    "options": ["ate", "eaten", "eated", "eating"],
+    "correct_option": 0
+  },
+  {
+    "question": "Which word is a conjunction in the following sentence: 'I will go to the store if it stops raining.'?",
+    "options": ["will", "go", "if", "stops"],
+    "correct_option": 2
+  },
+  {
+    "question": "Choose the correct spelling: 'accommodate' or 'acommmodate'?",
+    "options": ["accommodate", "acommmodate"],
+    "correct_option": 0
+  },
+  {
+    "question": "What is the opposite of 'brave'?",
+    "options": ["happy", "cowardly", "strong", "tall"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which of the following is a pronoun?",
+    "options": ["book", "she", "run", "blue"],
+    "correct_option": 1
+  },
+  {
+    "question": "In the sentence, 'The cat is on the table,' what is the preposition?",
+    "options": ["cat", "the", "on", "table"],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the superlative form of 'good'?",
+    "options": ["gooder", "better", "best", "goodest"],
+    "correct_option": 2
+  },
+  {
+    "question": "Which of these words is an adverb: 'quickly' or 'cat'?",
+    "options": ["quickly", "cat"],
+    "correct_option": 0
+  },
+  {
+    "question": "What is the past participle of 'drink'?",
+    "options": ["drink", "drank", "drunk", "drinking"],
+    "correct_option": 2
+  },
+  {
+    "question": "What is the plural form of 'fox'?",
+    "options": ["fox", "foxes", "foxi", "foxen"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which word is a noun in the following sentence: 'The sun is shining brightly.'?",
+    "options": ["The", "sun", "shining", "brightly"],
+    "correct_option": 1
+  },
+  {
+    "question": "What is the comparative form of 'far'?",
+    "options": ["farest", "farther", "farrer", "far"],
+    "correct_option": 1
+  },
+  {
+    "question": "Which of the following is a conjunction?",
+    "options": ["apple", "but", "jump", "red"],
+    "correct_option": 1
+  },
+  {
+    "question": "What is the antonym of 'empty'?",
+    "options": ["full", "happy", "small", "cold"],
+    "correct_option": 0
+  },
+  {
+    "question": "What is the past tense of 'begin'?",
+    "options": ["begun", "beginning", "begined", "began"],
+    "correct_option": 3
+  },
+  {
+    "question": "Which of these words is an adjective: 'blue' or 'quickly'?",
+    "options": ["blue", "quickly"],
+    "correct_option": 0
+  },
+  {
+    "question": "What is the plural form of 'bus'?",
+    "options": ["bus", "buses", "buss", "busses"],
+    "correct_option": 1
+  },
+  {
+    "question": "Choose the correct spelling: 'receive' or 'recieve'?",
+    "options": ["receive", "recieve"],
+    "correct_option": 0
+  }
+]
