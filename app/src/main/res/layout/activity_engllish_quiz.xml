@@ -47,11 +47,13 @@
 
     </RadioGroup>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/nextButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Next"
+        android:textColor="@color/black"
+        android:background="#BDF4DC"
         android:layout_marginTop="16dp"
         android:enabled="false" />
 

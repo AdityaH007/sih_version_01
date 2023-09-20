@@ -14,7 +14,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="12dp"
-            android:text="ai assistant"
+            android:text="Ai assistant"
             android:textColor="@color/black"
             android:textSize="22sp"
             android:textStyle="bold" />
@@ -41,16 +41,17 @@
 
         </LinearLayout>
 
-        <Button
-            android:id="@+id/startVoiceRecognitionButton"
-            android:layout_width="wrap_content"
-            android:layout_gravity="center"
-            android:layout_height="wrap_content"
-            android:text="Start Voice Recognition" />
 
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/startVoiceRecognitionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
 
+        android:layout_gravity="center"
+        android:background="#BDF4DC"
+        android:text="@string/svt" />
 
-        <LinearLayout
+    <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="40dp"
